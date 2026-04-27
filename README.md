@@ -10,9 +10,6 @@ DrissionPage 是一个基于 python 的网页自动化工具。
 
 它的语法简洁而优雅，代码量少，对新手友好。
 
-> <a href="https://www.ipwo.net/?code=OHDQCHF9A" target="_blank"><img src="https://drissionpage.cn/img/ad.jpg"/></a>
-> <a href="https://www.ipwo.net/?code=OHDQCHF9A" target="_blank">IPWO 提供的真实住宅 IP，大幅降低被封禁风险。195 + 国家 / 地区精准定位，轻松应对大型爬虫任务。让爬虫更简单，让数据更安全。戳本信息注册可获得有效保护账号的高匿名ip流量。</a>
-
 ---
 
 官方网站：[https://DrissionPage.cn](https://drissionpage.cn)
@@ -20,6 +17,9 @@ DrissionPage 是一个基于 python 的网页自动化工具。
 项目地址：[gitee](https://gitee.com/g1879/DrissionPage)    |    [github](https://github.com/g1879/DrissionPage)     |    [gitcode](https://gitcode.com/g1879/DrissionPage) 
 
 您的星星是对我最大的支持💖
+
+> <a href="https://www.ipwo.net/?code=OHDQCHF9A" target="_blank"><img src="https://drissionpage.cn/img/ad.jpg"/></a>
+> <a href="https://www.ipwo.net/?code=OHDQCHF9A" target="_blank">IPWO 提供的真实住宅 IP，大幅降低被封禁风险。195 + 国家 / 地区精准定位，轻松应对大型爬虫任务。让爬虫更简单，让数据更安全。戳本信息注册可获得有效保护账号的高匿名ip流量。</a>
 
 --- 
 
@@ -35,11 +35,8 @@ python 版本：3.6 及以上
 
 **📖 使用文档：**  [点击查看](https://DrissionPage.cn)
 
-**交流 QQ 群：**  见使用文档
-
-![](https://drissionpage.cn/codes.png)
-
 ![](https://drissionpage.cn/yrx.png)
+![](https://drissionpage.cn/codes.png)
 
 ---
 
