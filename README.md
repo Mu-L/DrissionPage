@@ -35,6 +35,14 @@ DrissionPage 是一个基于 python 的网页自动化工具。
     
     
   </tr>
+  
+  <tr>
+    <td><a href="https://www.rapidproxy.io/?ref=master"><img src="https://drissionpage.cn/img/Rapidproxy.png"/></a><br/>
+    <a href="https://www.rapidproxy.io/?ref=master">RapidProxy 是专为自动化任务和多账号业务打造的高性能代理服务商，提供纯净住宅代理和原生静态 ISP IP。支持 9000 万+ 全球住宅 IP、智能轮换、稳定 Session 和高并发请求，适用于网页数据采集、浏览器自动化、社媒账号运营、电商业务和批量注册等场景。住宅代理低至 $0.55/GB，流量长期有效不过期。使用优惠码 RAPID10 可享 9 折优惠</a></td>
+    <td></td>
+    
+    
+  </tr>
   </table>
 
 ---
